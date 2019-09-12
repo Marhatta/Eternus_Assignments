@@ -1,0 +1,38 @@
+﻿@model HotelManagementFinal.Models.CheckIn
+
+@{
+    ViewBag.Title = "FoundUsers";
+}
+
+<link type="text/css" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+
+<h2>FoundUsers</h2>
+
+<table class="table table-hover table-striped table-borderless ">
+    <thead class="thead-dark">
+        <tr>
+            <th>Room No.</th>
+            <th>Guest Name</th>
+            <th>Room Type </th>
+            <th>No of Rooms</th>
+            <th>No of Days</th>
+            <th>Status </th>
+            <th>Check In Date </th>
+        </tr>
+    </thead>
+
+
+    @foreach (var guest in @ViewBag.foundUsers)
+{
+    <tr class="table-primary">
+        <td>@guest.RoomId</td>
+        <td>@guest.GuestName</td>
+        <td>@guest.RoomType</td>
+        <td>@guest.NoOfRooms</td>
+        <td>@guest.NoOfDays</td>
+        <td>@guest.Status</td>
+        <td>@guest.CheckInDate</td>
+    </tr>
+}
+
+</table>

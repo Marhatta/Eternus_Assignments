@@ -1,0 +1,77 @@
+﻿@model IEnumerable<HotelManagementEntity.Models.CheckIn>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using(Html.BeginForm("Index", "CheckIn", FormMethod.Get)) {
+    <div class="form-group">
+        <input type="text" name="name" placeholder="Enter name here" />
+    </div>
+    <input type="submit" value="Search"/>
+}
+
+<table class="table">
+    <tr> 
+        <th>
+            @Html.DisplayNameFor(model => model.RoomType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GuestName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Contact)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CheckInTime)
+        </th>
+        <th>@Html.DisplayNameFor(model => model.Status)</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.RoomType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GuestName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Contact)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CheckInTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.ActionLink("Details", "Details", new { id=item.GuestId }) |
+            @Html.ActionLink("Checkout", "Delete", new { id=item.GuestId }) |
+           
+
+
+        </td>
+    </tr>
+}
+
+</table>
+

@@ -1,0 +1,41 @@
+﻿@model HotelManagementFinal.Models.Room
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<link type="text/css" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+<h2>Index</h2>
+
+<table class="table table-hover table-striped table-borderless ">
+    <thead class="thead-dark">
+        <tr>
+            <th>Room No.</th>
+            <th>Room Type </th>
+            <th>No of Rooms</th>
+            <th>Price </th>
+        </tr>
+    </thead>
+   
+
+
+    @foreach (var room in @ViewBag.RoomList )
+    {
+        <tr class="table-primary">
+            <td>@room.RoomId</td>
+            <td>@room.RoomType</td>
+            <td>@room.NoOfRooms</td>
+            <td>@room.Price</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = room.RoomId })
+                @Html.ActionLink("Delete", "Delete", new { id = room.RoomId })
+            </td>
+        </tr>
+    }
+       
+
+
+</table>
+
+<h2 class="text-danger">@TempData["CannotDeleteRoom"]</h2>

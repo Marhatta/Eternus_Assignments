@@ -1,0 +1,174 @@
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Authorization.dll.config
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Authorization.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Authorization.pdb
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Antlr3.Runtime.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\EntityFramework.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\EntityFramework.SqlServer.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Cors.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Security.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Newtonsoft.Json.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Owin.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Net.Http.Formatting.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Cors.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Helpers.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Http.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Http.Owin.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Http.WebHost.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Mvc.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Optimization.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Razor.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.WebPages.Deployment.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.WebPages.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.WebPages.Razor.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\WebGrease.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\EntityFramework.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\EntityFramework.SqlServer.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Cors.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Security.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Newtonsoft.Json.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Net.Http.Formatting.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Http.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Http.Owin.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Http.WebHost.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Helpers.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Mvc.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Optimization.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.Razor.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.WebPages.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.WebPages.Deployment.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\System.Web.WebPages.Razor.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\bin\Antlr3.Runtime.pdb
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\obj\Debug\Authorization.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\Authorization\Authorization\obj\Debug\Authorization.pdb
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Authorization.dll.config
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Authorization.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Authorization.pdb
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Antlr3.Runtime.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\EntityFramework.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\EntityFramework.SqlServer.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Cors.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Security.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Newtonsoft.Json.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Owin.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Net.Http.Formatting.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Cors.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Helpers.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Http.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Http.Owin.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Http.WebHost.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Mvc.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Optimization.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Razor.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.WebPages.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\WebGrease.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\EntityFramework.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\EntityFramework.SqlServer.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Cors.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Security.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Newtonsoft.Json.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Net.Http.Formatting.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Http.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Http.Owin.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Http.WebHost.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Helpers.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Mvc.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Optimization.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.Razor.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.WebPages.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\bin\Antlr3.Runtime.pdb
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\obj\Debug\Authorization.dll
+C:\Users\vishal.marhatta\Desktop\Assignments\Authorization\Authorization\obj\Debug\Authorization.pdb
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Authorization.dll.config
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Authorization.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Authorization.pdb
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Antlr3.Runtime.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\EntityFramework.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\EntityFramework.SqlServer.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Cors.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Security.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Newtonsoft.Json.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Owin.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Net.Http.Formatting.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Cors.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Helpers.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Http.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Http.Owin.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Http.WebHost.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Mvc.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Optimization.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Razor.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.WebPages.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\WebGrease.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\EntityFramework.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\EntityFramework.SqlServer.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Cors.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Security.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Newtonsoft.Json.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Net.Http.Formatting.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Http.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Http.Owin.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Http.WebHost.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Helpers.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Mvc.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Optimization.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.Razor.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.WebPages.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\bin\Antlr3.Runtime.pdb
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\obj\Debug\Authorization.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\Authorization\Authorization\obj\Debug\Authorization.pdb

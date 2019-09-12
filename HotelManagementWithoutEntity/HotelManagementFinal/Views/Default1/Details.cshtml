@@ -1,0 +1,36 @@
+﻿@model HotelManagementFinal.Models.Room
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Room</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.RoomType)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RoomType)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.NoOfRooms)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NoOfRooms)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Price)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Price)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.RoomId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,110 @@
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\HotelManagementEntity.dll.config
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\HotelManagementEntity.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\HotelManagementEntity.pdb
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Antlr3.Runtime.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\EntityFramework.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\EntityFramework.SqlServer.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Google.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Newtonsoft.Json.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Owin.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Helpers.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Mvc.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Optimization.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Razor.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.Deployment.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.Razor.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\WebGrease.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Helpers.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Mvc.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Optimization.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Razor.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.Deployment.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.Razor.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Newtonsoft.Json.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Antlr3.Runtime.pdb
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\EntityFramework.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\EntityFramework.SqlServer.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Google.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\obj\Debug\HotelManagementEntity.csprojResolveAssemblyReference.cache
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\obj\Debug\HotelManagementEntity.dll
+c:\users\vishal.marhatta\documents\visual studio 2013\Projects\HotelManagementEntity\HotelManagementEntity\obj\Debug\HotelManagementEntity.pdb
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\HotelManagementEntity.dll.config
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\HotelManagementEntity.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\HotelManagementEntity.pdb
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Antlr3.Runtime.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\EntityFramework.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\EntityFramework.SqlServer.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Newtonsoft.Json.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Owin.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Helpers.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Mvc.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Optimization.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Razor.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.Razor.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\WebGrease.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Helpers.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Mvc.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Optimization.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.Razor.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\System.Web.WebPages.Razor.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Newtonsoft.Json.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Antlr3.Runtime.pdb
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\EntityFramework.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\EntityFramework.SqlServer.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\obj\Debug\HotelManagementEntity.csprojResolveAssemblyReference.cache
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\obj\Debug\HotelManagementEntity.dll
+C:\Users\vishal.marhatta\Desktop\TrainingAssignments\MICROSOFT\HotelManagementEntity\HotelManagementEntity\obj\Debug\HotelManagementEntity.pdb

@@ -1,0 +1,26 @@
+<div class="container-fluid">
+ 
+        <!--login form-->
+        <div class="row">
+          <div class="col-md-6 col-sm-12 col-xs-12 loginForm">
+            <h1>Angular App</h1>
+            <div class="container">
+              <form #login = "ngForm" (ngSubmit) = "onClickSubmit(login.value)" >
+                <input type = "text" name = "email" placeholder = "email" ngModel>
+                <br/>
+                <input type = "password" name = "pwd" placeholder = "password" ngModel>
+                <br/>
+                <input type = "submit" value = "submit">
+              </form>
+            </div>
+          </div>
+          
+          <div class='col-md-6  col-sm-12 col-xs-12  loginSvg'>
+            <img src="../assets/images/login.svg" class='authImage' alt="login svg">
+          </div>
+      </div>
+        
+    </div>
+
+
+    

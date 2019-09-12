@@ -1,0 +1,47 @@
+﻿@model HotelManagementFinal.Models.CheckIn
+@{
+    ViewBag.Title = "CheckInDetails";
+}
+
+<link type="text/css" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+
+<h2>CheckIn Details</h2>
+
+
+<form method="post" action="/Default1/SearchCheckedInUsers">
+    <input type="text" name="nameVal" required />
+    <input type="submit" value="search" />
+</form>
+<table class="table table-hover table-striped table-borderless ">
+    <thead class="thead-dark">
+        <tr>
+            <th>Room No.</th>
+            <th>Guest Name</th>
+            <th>Address</th>
+            <th>No of Days</th>
+            <th>Check In Date</th>
+            <th>Room Type </th>
+            <th>No of Rooms</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+
+
+
+    @foreach (var checkIn in @ViewBag.CheckedIn)
+    {
+        <tr class="table-primary">
+            <td>@checkIn.RoomId</td>
+            <td>@checkIn.GuestName</td>
+            <td>@checkIn.Address</td>
+            <td>@checkIn.NoOfDays</td>
+            <td>@checkIn.CheckInDate</td>
+            <td>@checkIn.RoomType</td>
+            <td>@checkIn.NoOfRooms</td>
+            <td>@checkIn.Status</td>
+            <td>@Html.ActionLink("Checkout", "Checkout", new { id= checkIn.GuestId})</td>
+        </tr>
+    }
+
+
+</table>

@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Hotel Asia</h1>
+    <p class="lead">Enjoy Comfort at affordable Price .</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+    
+        @if (Request.IsAuthenticated)
+        {
+            String currentUser = User.Identity.Name;
+            if (@currentUser == "vishalmarhatta")
+            {
+               
+           <div>
+                @Html.ActionLink("Create Room", "Create", "Room", routeValues: null, htmlAttributes: new { id = "RoomLink" })
+           </div>
+           <div>
+                @Html.ActionLink("Check In", "Create", "CheckIn", routeValues: null, htmlAttributes: new { id = "checkInLink" })
+           </div>
+           <div>
+                 @Html.ActionLink("View Rooms", "Index", "Room", routeValues: null, htmlAttributes: new { id = "checkInLink" })
+           </div>
+                
+           }
+            else
+            {
+                <div>
+                 @Html.ActionLink("View Rooms", "Index", "Room", routeValues: null, htmlAttributes: new { id = "checkInLink" })
+           </div>
+            }
+        }
+        else
+        {
+            <div>
+                 @Html.ActionLink("View Rooms", "Index", "Room", routeValues: null, htmlAttributes: new { id = "checkInLink" })
+           </div>
+        }
+   
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Plan your seasonal Escape</h2>
+       
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    
+</div>
